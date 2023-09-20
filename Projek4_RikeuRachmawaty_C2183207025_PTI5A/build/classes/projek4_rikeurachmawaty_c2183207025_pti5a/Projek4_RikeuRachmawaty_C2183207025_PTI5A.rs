@@ -1,0 +1,2 @@
+CekGenapGanjil
+HitungRataRata
